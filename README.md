@@ -4,10 +4,14 @@
 
 ### Plugins
 
-- Chaos Niagara (activation)
-- LE Extended Standard Library (installation)
-- Modelling Tools Editor Mode (activation)
-- Niagara (activation)
-- Niagara Fluids (activation)
-- Quixel Bridge (installation)
-- Static Mesh Editor Modelling (activation)
+- **Installed:**
+  - LE Extended Standard Library (installation)
+- **Activated:**
+  - Chaos Niagara
+  - Modelling Tools Editor Mode
+  - Niagara
+  - Niagara Fluids
+  - Physics Control
+  - Procedural Content Generation (PCG)
+  - Quixel Bridge
+  - Static Mesh Editor Modelling

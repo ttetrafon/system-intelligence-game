@@ -15,3 +15,5 @@
   - Procedural Content Generation (PCG)
   - Quixel Bridge
   - Static Mesh Editor Modelling
+- **Removed**
+  - Studio Telemetry

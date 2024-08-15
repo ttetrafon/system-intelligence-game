@@ -61,6 +61,10 @@
 			"Name": "FileToolkitX",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/51ebf65c5f4344fc98886fa94b99e96f"
+		},
+		{
+			"Name": "StudioTelemetry",
+			"Enabled": false
 		}
 	]
 }

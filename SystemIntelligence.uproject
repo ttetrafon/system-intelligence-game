@@ -77,6 +77,10 @@
 		{
 			"Name": "Soundscape",
 			"Enabled": true
+		},
+		{
+			"Name": "ModelViewViewModel",
+			"Enabled": true
 		}
 	]
 }

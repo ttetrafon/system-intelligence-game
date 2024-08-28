@@ -18,5 +18,6 @@
   - Quixel Bridge
   - Soundscape
   - Static Mesh Editor Modelling
+  - UMG Viewmodel
 - **Removed**
   - Studio Telemetry

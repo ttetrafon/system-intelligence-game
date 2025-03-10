@@ -9,6 +9,7 @@
 - **Activated:**
   - Chaos Niagara
   - Harmonix
+  - Json Blueprint Utilities
   - Modelling Tools Editor Mode
   - Niagara
   - Niagara Fluids
@@ -16,6 +17,7 @@
   - PCG Biome Cire
   - Procedural Content Generation (PCG)
   - Quixel Bridge
+  - Serialization Utils
   - Soundscape
   - Static Mesh Editor Modelling
   - UMG Viewmodel

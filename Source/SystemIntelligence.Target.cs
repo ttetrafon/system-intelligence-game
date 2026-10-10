@@ -8,7 +8,7 @@ public class SystemIntelligenceTarget : TargetRules
 	public SystemIntelligenceTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Game;
-		DefaultBuildSettings = BuildSettingsVersion.V6;
+		DefaultBuildSettings = BuildSettingsVersion.Latest;
 
         ExtraModuleNames.AddRange( new string[] { "SystemIntelligence" } );
 	}
